@@ -1,0 +1,42 @@
+/Volumes/SSD120/SamplesXamarin/ValidationEntrySample/ValidationEntrySample/bin/Debug/ValidationEntrySample.dll
+/Volumes/SSD120/SamplesXamarin/ValidationEntrySample/ValidationEntrySample/bin/Debug/ValidationEntrySample.pdb
+/Volumes/SSD120/SamplesXamarin/ValidationEntrySample/ValidationEntrySample/bin/Debug/Xamarin.Forms.Core.dll
+/Volumes/SSD120/SamplesXamarin/ValidationEntrySample/ValidationEntrySample/bin/Debug/Xamarin.Forms.Platform.dll
+/Volumes/SSD120/SamplesXamarin/ValidationEntrySample/ValidationEntrySample/bin/Debug/Xamarin.Forms.Xaml.dll
+/Volumes/SSD120/SamplesXamarin/ValidationEntrySample/ValidationEntrySample/bin/Debug/Xamarin.Forms.Core.pdb
+/Volumes/SSD120/SamplesXamarin/ValidationEntrySample/ValidationEntrySample/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Volumes/SSD120/SamplesXamarin/ValidationEntrySample/ValidationEntrySample/bin/Debug/Xamarin.Forms.Core.xml
+/Volumes/SSD120/SamplesXamarin/ValidationEntrySample/ValidationEntrySample/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Volumes/SSD120/SamplesXamarin/ValidationEntrySample/ValidationEntrySample/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Volumes/SSD120/SamplesXamarin/ValidationEntrySample/ValidationEntrySample/bin/Debug/Xamarin.Forms.Xaml.xml
+/Volumes/SSD120/SamplesXamarin/ValidationEntrySample/ValidationEntrySample/obj/Debug/ValidationEntrySample.csprojResolveAssemblyReference.cache
+/Volumes/SSD120/SamplesXamarin/ValidationEntrySample/ValidationEntrySample/obj/Debug/ValidationEntrySample.csproj.CoreCompileInputs.cache
+/Volumes/SSD120/SamplesXamarin/ValidationEntrySample/ValidationEntrySample/obj/Debug/ValidationEntrySample.obj.Debug.App.xaml.g.cs
+/Volumes/SSD120/SamplesXamarin/ValidationEntrySample/ValidationEntrySample/obj/Debug/ValidationEntrySample.ValidationEntrySamplePage.xaml.g.cs
+/Volumes/SSD120/SamplesXamarin/ValidationEntrySample/ValidationEntrySample/obj/Debug/ValidationEntrySample.dll
+/Volumes/SSD120/SamplesXamarin/ValidationEntrySample/ValidationEntrySample/obj/Debug/ValidationEntrySample.pdb
+/Volumes/SSD120/SamplesXamarin/ValidationEntrySample/ValidationEntrySample/obj/Debug/ValidationEntrySample.Views.LoginView.xaml.g.cs
+/Volumes/NO NAME/ValidationEntrySample/ValidationEntrySample/obj/Debug/ValidationEntrySample.csprojResolveAssemblyReference.cache
+/Volumes/NO NAME/ValidationEntrySample/ValidationEntrySample/obj/Debug/ValidationEntrySample.csproj.CoreCompileInputs.cache
+/Volumes/NO NAME/ValidationEntrySample/ValidationEntrySample/obj/Debug/ValidationEntrySample.obj.Debug.App.xaml.g.cs
+/Volumes/NO NAME/ValidationEntrySample/ValidationEntrySample/obj/Debug/ValidationEntrySample.ValidationEntrySamplePage.xaml.g.cs
+/Volumes/NO NAME/ValidationEntrySample/ValidationEntrySample/obj/Debug/ValidationEntrySample.Views.LoginView.xaml.g.cs
+/Volumes/NO NAME/ValidationEntrySample/ValidationEntrySample/obj/Debug/ValidationEntrySample.dll
+/Volumes/NO NAME/ValidationEntrySample/ValidationEntrySample/obj/Debug/ValidationEntrySample.pdb
+/Users/Fourtime/Documents/Projects/Samples/ValidationEntrySample/ValidationEntrySample/bin/Debug/ValidationEntrySample.dll
+/Users/Fourtime/Documents/Projects/Samples/ValidationEntrySample/ValidationEntrySample/bin/Debug/ValidationEntrySample.pdb
+/Users/Fourtime/Documents/Projects/Samples/ValidationEntrySample/ValidationEntrySample/bin/Debug/Xamarin.Forms.Core.dll
+/Users/Fourtime/Documents/Projects/Samples/ValidationEntrySample/ValidationEntrySample/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/Fourtime/Documents/Projects/Samples/ValidationEntrySample/ValidationEntrySample/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/Fourtime/Documents/Projects/Samples/ValidationEntrySample/ValidationEntrySample/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/Fourtime/Documents/Projects/Samples/ValidationEntrySample/ValidationEntrySample/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/Fourtime/Documents/Projects/Samples/ValidationEntrySample/ValidationEntrySample/bin/Debug/Xamarin.Forms.Core.xml
+/Users/Fourtime/Documents/Projects/Samples/ValidationEntrySample/ValidationEntrySample/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/Fourtime/Documents/Projects/Samples/ValidationEntrySample/ValidationEntrySample/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/Fourtime/Documents/Projects/Samples/ValidationEntrySample/ValidationEntrySample/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/Fourtime/Documents/Projects/Samples/ValidationEntrySample/ValidationEntrySample/obj/Debug/ValidationEntrySample.csproj.CoreCompileInputs.cache
+/Users/Fourtime/Documents/Projects/Samples/ValidationEntrySample/ValidationEntrySample/obj/Debug/ValidationEntrySample.obj.Debug.App.xaml.g.cs
+/Users/Fourtime/Documents/Projects/Samples/ValidationEntrySample/ValidationEntrySample/obj/Debug/ValidationEntrySample.ValidationEntrySamplePage.xaml.g.cs
+/Users/Fourtime/Documents/Projects/Samples/ValidationEntrySample/ValidationEntrySample/obj/Debug/ValidationEntrySample.Views.LoginView.xaml.g.cs
+/Users/Fourtime/Documents/Projects/Samples/ValidationEntrySample/ValidationEntrySample/obj/Debug/ValidationEntrySample.dll
+/Users/Fourtime/Documents/Projects/Samples/ValidationEntrySample/ValidationEntrySample/obj/Debug/ValidationEntrySample.pdb

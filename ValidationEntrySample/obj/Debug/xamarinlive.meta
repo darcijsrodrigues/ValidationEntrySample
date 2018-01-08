@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XamlProjectMeta xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Files>
+    <XamlFileMeta>
+      <FilePath>/Users/Fourtime/Documents/Projects/Samples/ValidationEntrySample/ValidationEntrySample/App.xaml</FilePath>
+      <Hash>9A-58-46-C6-C4-EF-27-24-3E-1E-4D-E8-D7-13-C3-ED</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>/Users/Fourtime/Documents/Projects/Samples/ValidationEntrySample/ValidationEntrySample/ValidationEntrySamplePage.xaml</FilePath>
+      <Hash>5E-3F-86-72-93-4C-13-FC-85-3E-BE-C5-14-0F-7A-44</Hash>
+      <Properties />
+    </XamlFileMeta>
+    <XamlFileMeta>
+      <FilePath>/Users/Fourtime/Documents/Projects/Samples/ValidationEntrySample/ValidationEntrySample/Views/LoginView.xaml</FilePath>
+      <Hash>7E-5F-84-22-E0-A2-F2-4F-43-11-83-28-5E-61-5B-86</Hash>
+      <Properties>
+        <string>Padding</string>
+      </Properties>
+    </XamlFileMeta>
+  </Files>
+</XamlProjectMeta>

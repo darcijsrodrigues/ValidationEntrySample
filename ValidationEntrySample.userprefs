@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{F6587CCE-5DE5-4BE9-A49D-660CFD3F3C90}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/MainActivity.cs">
+    <Files>
+      <File FileName="ValidationEntrySample/App.xaml" Line="17" Column="41" />
+      <File FileName="ValidationEntrySample/Views/LoginView.xaml" Line="23" Column="79" NotebookId="1" />
+      <File FileName="ValidationEntrySample/ViewModels/LoginViewModel.cs" Line="13" Column="25" NotebookId="1" />
+      <File FileName="ValidationEntrySample/Validations/ValidatableObject.cs" Line="10" Column="37" NotebookId="1" />
+      <File FileName="ValidationEntrySample/Validations/IValidationRule.cs" Line="4" Column="22" NotebookId="1" />
+      <File FileName="ValidationEntrySample/Validations/IsNotNullOrEmptyRule.cs" Line="6" Column="40" NotebookId="1" />
+      <File FileName="ValidationEntrySample/Validations/IValidity.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Droid/MainActivity.cs" Line="25" Column="1" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ValidationEntrySample.Droid PreferredExecutionTarget="Android.0019650173" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ValidationEntrySample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DC9A1005-D92C-4AAD-9579-BD822B9D37E8">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.ValidationEntrySample.iOS>
+  <MultiItemStartupConfigurations />
+</Properties>
